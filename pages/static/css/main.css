@@ -10,10 +10,7 @@ body {
   }
 }
 
-#brandpic {
-	height: 100%;
-	display: block;
-}
+
 
 #topHeader {
 	text-align: center;
@@ -84,7 +81,7 @@ section p {
 #logopic {
 	padding-bottom: -30px;
 	margin-bottom: -40px;
-	padding-top: 80px;
+	padding-top: 90px;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #0A4958;
@@ -148,6 +145,10 @@ footer ul {
 	width: 100%;
 	text-align: center;
 	padding-top: 10px;
+}
+
+#service-icon {
+	width: 150px;
 }
 
 
