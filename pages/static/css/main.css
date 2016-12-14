@@ -103,12 +103,12 @@ footer {
 	padding-top: 20px;
 	padding-bottom: 30px;
 	text-align: left;
-	color: #222222;
+	color: #fefdfb;
 	width: 100%;
 }
 
 footer a {
-	color: #222222;
+	color: #fefdfb;
 }
 footer a:hover {
 	color: black;
@@ -179,6 +179,8 @@ footer ul {
 #contactNumber {
 	padding-top: 40px;
 	padding-bottom: 40px;
+	padding-right: 10px;
+	padding-left: 10px;
 	letter-spacing: 3px;
 	background: #0A4958;
 	color: white;
