@@ -59,9 +59,9 @@ body {
 
 .jumbotron {
 	text-align: center;
-	background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg1.jpg');
-	background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg1.jpg');
-	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg1.jpg');
+	background: -webkit-linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg2.jpg');
+	background: -o-linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg2.jpg');
+	background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('../img/bg2.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;	
@@ -99,6 +99,11 @@ h1 {
 	font-size: 4em;
 	font-family: 'Playfair Display', serif;
 	padding-bottom: 30px;
+	font-weight: 600;
+}
+
+h3 {
+	font-weight: 600;
 }
 
 footer {
@@ -175,8 +180,9 @@ footer ul {
 }
 
 #profilepic {
-	padding-top: 100px;
+	padding-top: 10px;
 	text-align: center;
+	width: 100%;
 }
 
 #contactNumber {
